@@ -1,0 +1,78 @@
+header {
+position: relative;
+width: 1480px;
+height: 1950px;
+background: linear-gradient(119.74deg, #000000 3.44%, rgba(39, 36, 36, 0.87) 90.97%);
+}
+body{
+	margin:0;
+}
+header a{
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px #FF0101;
+	font-family: Montserrat;
+	font-size: 19px;
+	line-height: 23px;
+}
+ul, li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-decoration: none;
+	font-size: 19px;
+}
+.menu li {
+	margin-right: 53px;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	padding-top: 89px;
+	padding-left: 105px;
+}
+.logo {
+	margin-right: 250px;
+}
+.band {
+position: absolute;
+width: 1170px;
+height: 706px;
+left: 355px;
+top: 264px;
+background: url(slipknot_band.png);
+}
+.table {
+font-family: Open Sans;
+font-size: 24px;
+line-height: 23px;
+color: #FFFFFF;
+padding-top: 130px;
+padding-left: 185px;
+display: flex;
+}
+.city {
+font-family: Open Sans;
+font-size: 24px;
+line-height: 23px;
+color: #FFFFFF;
+padding-top: 130px;
+padding-right: 250px;
+display: flex;
+}
+.text2cols {
+white-space: nowrap;
+}
+.text2cols-item {
+white-space: normal;
+display: inline-block;
+width: 48%;
+vertical-align: top;
+}
+.text2cols .text2cols-item:first-child {
+margin-right: 4%;
+}

@@ -1,0 +1,112 @@
+header {
+position: relative;
+width: 1480px;
+height: 4700px;
+background: linear-gradient(119.74deg, #000000 3.44%, rgba(39, 36, 36, 0.87) 90.97%);
+}
+body{
+	margin:0;
+}
+header a{
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px #FF0101;
+	font-family: Montserrat;
+	font-size: 19px;
+	line-height: 23px;
+}
+ul, li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-decoration: none;
+	font-size: 19px;
+}
+.menu li {
+	margin-right: 53px;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	padding-top: 89px;
+	padding-left: 105px;
+}
+.logo {
+	margin-right: 250px;
+}
+.sid {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 280px;
+background: url(sid.jpg);
+}
+.joey {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 730px;
+background: url(joey.jpg);
+}
+.paul {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 1230px;
+background: url(paul.jpg);
+}
+.chris {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 1730px;
+background: url(chris.jpg);
+}
+.james {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 2230px;
+background: url(james.jpg);
+}
+.craig {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 2730px;
+background: url(craig.jpg);
+}
+.shawn {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 3230px;
+background: url(shawn.jpg);
+}
+.mick {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 3730px;
+background: url(mick.jpg);
+}
+.corey {
+position: absolute;
+width: 174px;
+height: 174px;
+left: 1055px;
+top: 4230px;
+background: url(corey.jpg);
+}

@@ -1,0 +1,113 @@
+header {
+position: relative;
+width: 1480px;
+height: 3000px;
+background: linear-gradient(119.74deg, #000000 3.44%, rgba(39, 36, 36, 0.87) 90.97%);
+}
+body{
+	margin:0;
+}
+header a{
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px #FF0101;
+	font-family: Montserrat;
+	font-size: 19px;
+	line-height: 23px;
+}
+ul, li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-decoration: none;
+	font-size: 19px;
+}
+.menu li {
+	margin-right: 53px;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	padding-top: 89px;
+	padding-left: 105px;
+}
+.logo {
+	margin-right: 250px;
+}
+.band {
+position: absolute;
+width: 1170px;
+height: 706px;
+left: 355px;
+top: 264px;
+background: url(slipknot_band.png);
+}
+.albHope {
+position: absolute;
+width: 250px;
+height: 252.08px;
+left: 1225px;
+top: 623px;
+background: url(albHope.png);
+}
+.albVol3 {
+position: absolute;
+width: 250px;
+height: 251px;
+left: 661px;
+top: 257px;
+background: url(albVol3.png);
+}
+.albVolim {
+position: absolute;
+width: 250px;
+height: 250px;
+left: 825px;
+top: 623px;
+background: url(albVolim.png)
+}
+.albWanyk {
+position: absolute;
+width: 258px;
+height: 249px;
+left: 1004px;
+top: 257px;
+background: url(image.png);
+}
+.albIowa {
+position: absolute;
+width: 250px;
+height: 250px;
+left: 435px;
+top: 623px;
+}
+.player {
+padding-left: 200px;
+margin-top: 120px;
+display: flex;
+}
+.name {
+margin-left: 200px;
+margin-top: 150px;
+color: #FFFFFF;
+font-family: Open Sans;
+font-size: 19px;
+line-height: 20px;
+display: flex;
+}
+.text2cols {
+white-space: nowrap;
+}
+.text2cols-item {
+white-space: normal;
+display: inline-block;
+width: 48%;
+vertical-align: top;
+}
+.text2cols .text2cols-item:first-child {
+margin-right: 4%;
+}

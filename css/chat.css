@@ -1,0 +1,68 @@
+.holder-html-chat{ 
+background: linear-gradient(119.74deg, #000000 3.44%, rgba(39, 36, 36, 0.87) 90.97%);
+width: 1480px;
+height: 600px;
+}
+.html-chat-history{ max-width: 600px; color: #FFFFFF; text-shadow: 0px 4px 4px #FF0101;
+	font-family: Montserrat;
+	font-size: 19px;
+	line-height: 23px;
+	 overflow: auto;max-height: 900px; 
+	 border: 1px solid #ccc;
+	 padding: 5px;}
+.html-chat-js-name{ margin-top:20px; margin-right: 20px }
+.html-chat-js-input{ max-width: 600px;max-height: 100px;width: 600px;margin-top:10px; }
+.html-chat-js-button-holder{ margin-bottom: 0px;margin-top: 10px; }
+.html-chat-js-button-holder input{ width: 220px; }
+.html-chat-js-answer{ float:right; }
+.html-chat-js-answer a{ color: #777;font-size: 12px; font-family: cursive;}
+.html-chat-js-answer a:hover{ color: #338;font-size: 12px; font-family: cursive;}
+.html-chat-msg{ margin: 0px; }
+header {
+position: relative;
+width: 1480px;
+height: 150px;
+background: linear-gradient(119.74deg, #000000 3.44%, rgba(39, 36, 36, 0.87) 90.97%);
+}
+body{
+	margin:0;
+}
+header a{
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px #FF0101;
+	font-family: Montserrat;
+	font-size: 19px;
+	line-height: 23px;
+}
+ul, li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-decoration: none;
+	font-size: 19px;
+}
+.menu li {
+	margin-right: 53px;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	padding-top: 29px;
+	padding-left: 105px;
+}
+.logo {
+	margin-right: 250px;
+}
+.band {
+position: absolute;
+width: 1170px;
+height: 706px;
+left: 355px;
+top: 264px;
+background: url(slipknot_band.png);
+}
